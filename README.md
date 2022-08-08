@@ -27,4 +27,4 @@ This scripts has been reported to work on:
 * openSUSE
 * Fedora
 
-IF your distro is missing please leave a note!
+If your distro is missing please leave a note!
